@@ -1,0 +1,25 @@
+24
+80C:\Users\ELITE BOOK\Desktop\NORITANAIN\campus-event-management\package-lock.json134075219302840177 0
+69C:\Users\ELITE BOOK\Desktop\NORITANAIN\campus-event-management\styles134075219302978600 1
+76C:\Users\ELITE BOOK\Desktop\NORITANAIN\campus-event-management\.dockerignore134075219302799856 0
+75C:\Users\ELITE BOOK\Desktop\NORITANAIN\campus-event-management\package.json134075220816262878 0
+73C:\Users\ELITE BOOK\Desktop\NORITANAIN\campus-event-management\.gitignore134075219302815704 0
+79C:\Users\ELITE BOOK\Desktop\NORITANAIN\campus-event-management\dist\events.html134075225368909043 0
+67C:\Users\ELITE BOOK\Desktop\NORITANAIN\campus-event-management\dist134075225369086677 1
+78C:\Users\ELITE BOOK\Desktop\NORITANAIN\campus-event-management\dist\about.html134075225368899040 0
+75C:\Users\ELITE BOOK\Desktop\NORITANAIN\campus-event-management\dockerignore134075192511451846 0
+77C:\Users\ELITE BOOK\Desktop\NORITANAIN\campus-event-management\src\about.html134075220075098118 0
+73C:\Users\ELITE BOOK\Desktop\NORITANAIN\campus-event-management\Dockerfile134075192493879052 0
+79C:\Users\ELITE BOOK\Desktop\NORITANAIN\campus-event-management\src\gallery.html134075220446550354 0
+72C:\Users\ELITE BOOK\Desktop\NORITANAIN\campus-event-management\README.md134075219302835047 0
+66C:\Users\ELITE BOOK\Desktop\NORITANAIN\campus-event-management\src134075219302938280 1
+68C:\Users\ELITE BOOK\Desktop\NORITANAIN\campus-event-management\tatus134075219302988556 0
+79C:\Users\ELITE BOOK\Desktop\NORITANAIN\campus-event-management\styles\style.css134075219302978600 0
+79C:\Users\ELITE BOOK\Desktop\NORITANAIN\campus-event-management\src\contact.html134075220169912308 0
+78C:\Users\ELITE BOOK\Desktop\NORITANAIN\campus-event-management\src\events.html134075220319867269 0
+77C:\Users\ELITE BOOK\Desktop\NORITANAIN\campus-event-management\src\index.html134075220558806877 0
+80C:\Users\ELITE BOOK\Desktop\NORITANAIN\campus-event-management\dist\contact.html134075225368909043 0
+88C:\Users\ELITE BOOK\Desktop\NORITANAIN\campus-event-management\dist\gallery.8ecd9a3d.css134075225368912350 0
+92C:\Users\ELITE BOOK\Desktop\NORITANAIN\campus-event-management\dist\gallery.8ecd9a3d.css.map134075225369058594 0
+80C:\Users\ELITE BOOK\Desktop\NORITANAIN\campus-event-management\dist\gallery.html134075225368803825 0
+78C:\Users\ELITE BOOK\Desktop\NORITANAIN\campus-event-management\dist\index.html134075225368899040 0
