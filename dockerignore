@@ -1,6 +1,0 @@
-**/dist
-**/node_mocules
-**/.git
-**/.gitignore
-**/Dockerfile
-**/.dockerignore
